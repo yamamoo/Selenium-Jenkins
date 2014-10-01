@@ -1,0 +1,1 @@
+<%@ page pageEncoding="UTF-8" %><!DOCTYPE html><html><head><meta charset="UTF-8"><title>Selenium Sample</title></head><body>	<p>足し算します。</p>	<form action="Result.jsp">		<input type="text" size="4" name="num1"> + 		<input type="text" size="4" name="num2">		<input type="submit" value="計算">	</form></body></html>
